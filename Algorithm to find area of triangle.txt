@@ -1,0 +1,6 @@
+# Algorithm-to-find-area-of-triangle-
+Step 1:Start
+Step 2:Get the values of                    height,breadth from the user
+Step 3:Compute Area =1/2*b*h
+Step 4:Display Area
+Step 5:Stop
